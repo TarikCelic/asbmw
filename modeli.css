@@ -368,7 +368,6 @@ a {
     gap: 10px;
     min-height: 932px;
     width: 20rem;
-    overflow: auto;
   }
   .boje {
     justify-content: flex-start;
@@ -408,3 +407,4 @@ a {
     width: 100%;
   }
 }
+
