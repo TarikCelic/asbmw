@@ -261,22 +261,23 @@ article h2 {
   }
   ul {
     margin-left: 0;
+    margin: 20px 0;
   }
   .menu {
     margin: 0 auto;
-    width: 100%;
+    width: 100vw;
     display: flex;
     justify-content: center;
     align-items: center;
   }
   a {
-    width: 100%;
+    font-size: 1rem;
+    padding: 20px;
   }
   nav li {
-    display: block;
-    padding: 20px;
     text-align: center;
-    width: 100%;
+    width: 0%;
+    display: inline;
   }
   article {
     flex-direction: column;

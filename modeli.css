@@ -355,7 +355,7 @@ a {
 }
 @media (max-width: 872px) {
   .backdrop-filter {
-    align-items: flex-start;
+    align-items: center;
   }
   .left-section {
     border-right: none;
